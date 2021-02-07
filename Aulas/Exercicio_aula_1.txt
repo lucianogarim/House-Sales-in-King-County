@@ -19,7 +19,7 @@ R. Casa com id 2402100895
 R. 72854
 
 7. Quantas casas possuem 2 banheiros?
-R. 11242
+R. 11242  verificar
 
 8. Qual o preço médio de todas as casas no dataset?
 R. 540088.1417
