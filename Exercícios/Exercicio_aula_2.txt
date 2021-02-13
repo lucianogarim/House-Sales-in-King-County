@@ -1,0 +1,60 @@
+Exercícios-
+
+1. Crie uma coluna chamada: "house_age"
+	-Se o valor da coluna "date" for maior que 2014-01-01 -> 'new_house'
+	-Se o valor da coluna "date" for menor que 2014-01-01 -> 'old_house'
+
+2. Crie uma nova coluna chamada: "dormitory_type"
+	-Se o valor da coluna "bedrooms" for igual a 1 -> 'studio'
+	-Se o valor da coluna "bedrooms" for igual a 2 -> 'apartament'
+	-Se o valor da coluna "bedrooms" for maior que 2 -> 'house'
+
+3. Crie uma nova coluna chamada: "condition_type"
+	-Se o valor da coluna "condition" for menor ou igual a 2 -> 'bad'
+	-Se o valor da coluna "condition" for igual a 3 ou 4 -> 'regular'
+	-Se o valor da coluna "condition" for igual a 5 -> 'good'
+
+4. Modifique o tipo da coluna "condition" para string
+
+5. Delete as colunas: "sqft_living150" e "sqft_lot15"
+
+6. Modifique o tipo da coluna "yr_build" para date.
+
+7. Modifique o tipo da coluna "yr_renovated" para date.
+
+8. Qual a data mais antiga de construção?
+
+9. Qual a data mais antiga de reforma?
+
+10. Quantos imóveis tem 2 andares?
+
+11. Quantos imóveis estão com a condição "regular"?
+
+12. Quantos imóveis estão com a condição "bad" e "possuem vista para o mar"?
+
+13. Quantos imóveis estão com a condição good e são new_house?
+
+14. Qual o valor do imóvel mais caro do tipo studio?
+
+15. Quantos imóveis do tipo apartament foram reformados em 2015?
+
+16. Qual o maior numero de quartos que um imovel do house possui?
+
+17. Quantos imóveis new_house foram reformados em 2014?
+
+18. Selecione as colunas "id", "date", "price", "floors", "zipcode" pelos métodos:
+	Nome de colunas
+	Indices
+	Indices x Nome de coolunas
+	Booleano
+
+19. Salve um arquivo .csv com somente as colunas do item 10.
+
+20. Modifique a cor dos pontos no mapa de pink para verde escuro.
+
+
+
+
+
+
+
