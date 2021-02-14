@@ -17,3 +17,29 @@
 9. Como é o crescimento médio de preços de compra de imóveis por ano, por dia, pela semana do ano?
 
 10. Eu gostaria de olhar no mapa e identificar as casas com maior preço.
+
+
+Exercicios
+
+1. Crie uma nova coluna chamada: "dormitory_type"
+	-Se o valor da coluna "bedrooms" for igual a 1 -> 'studio'
+	-Se o valor da coluna "bedrooms" for igual a 2 -> 'apartament'
+	-Se o valor da coluna "bedrooms" for maior que 2 -> 'house'
+
+2. Faça um gráfico de barras que represente a soma dos preços pelo número de quartos.
+
+3. Faça um gráfico de linhas que representa a média dos preços pelo ano de construção dos imóveis.
+
+4. Faça um gráfico de barras que represente a média dos preços pelo tipo dos dormitórios.
+
+5. Faça um gráfico de linha que mostre a evolução da média dos preços pelo ano da reforma dos imóveis, a partir do ano de 1930.
+
+6. Faça uma tabela que mostre a média dos preços por ano de construção e tipo de dormitórios dos imóveis.
+
+7. Crie um Dashboard com os gráficos das questões 2 3 e 4 (1l 2c)
+
+8. Crie um Dashboard com os gráficos das questões 2 4 (2c)
+
+9. Crie um Dashboard com os gráficos das questões 3 e 5 (2l)
+
+10. Faça um gráfico com o tamanho dos pontos sendo igual ao tamanho da sala de estar.
